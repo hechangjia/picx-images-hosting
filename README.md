@@ -5,5 +5,5 @@
 
 PicX is completely open source, and you can use it for free.
 
-If you like it, please give it a star on [GitHub](https://github.com/XPoet/picx).
-        
+# 图片上传测试
+![demo1](https://hechangjia.github.io/picx-images-hosting/Win/Manim.9o01tund1q.png)
